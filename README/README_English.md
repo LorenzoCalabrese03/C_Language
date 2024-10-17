@@ -12,32 +12,30 @@
                 </a>   
             </p> 
         </h1>
-    <h1>Java University Exercises</h1>
-    <p>Welcome to my repository dedicated to Java programming exercises completed during my university studies. Here, you will find a collection of projects and exercises that cover various topics, concepts, and techniques in Java.</p>
+    <h1>C University Exercises</h1>
+    <p>Welcome to my repository dedicated to C programming exercises completed during my university studies. Here, you will find a collection of projects and exercises that cover various topics, concepts, and techniques in C.</p>
     <h2>Contents</h2>
     <p>The repository includes exercises related to:</p>
     <ul>
-        <li>Object-Oriented Programming</li>
+        <li>Algoritsm</li>
         <li>File</li>
         <li>Practical exercises with libraries</li>
     </ul>
     <p>Each folder contains a specific exercise along with its description and source code.<p>
     <h2>IDE</h2>
-    <code><img alt="Eclipse" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/></code>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="40" height="40" />
     <h2>Repository Structure</h2>
     <pre>
 ├── Exercise1/
 │   ├── src/
-│   └── Javadocs
+│ 
 ├── Exercise2/
 │   ├── src/
-│   └── Javadocs
+│   
 └── ...
     </pre>
     <ul>
         <li><strong>src/</strong>: Contains the source code for the exercise.</li>
-        <li><strong>Javadocs</strong>: Describes the exercise, objectives, and execution instructions.
-        (can be obsolete)</li>
     </ul>
     <h2>How to Run the Exercises</h2>
     <p>To run the exercises, follow these steps:</p>
@@ -53,7 +51,7 @@
             <li>Choose "Existing Projects into Workspace" and select the project folder.</li>
           <li>I raccomand to use Github Dekstop, you can follow each step</li>
         </ul>
-        <li>Compile and run the Java code in Eclipse.</li>
+        <li>Compile and run the C code with the IDE you use.</li>
     </ol>
     <h2>Contributions</h2>
     <p>If you would like to contribute to this repository, feel free to open a Pull Request or report any issues.</p>
