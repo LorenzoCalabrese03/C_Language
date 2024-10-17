@@ -1,0 +1,6 @@
+# ninja log v5
+10	498	6892910646620413	build.ninja	82a753ae69fdbe81
+4	148	6892708971660667	CMakeFiles/somma_vettoriale.dir/main.c.obj	318e2577ab2de82a
+150	471	6892708974851342	somma_vettoriale.exe	97d86275c8fa4c86
+3	135	6892911228909829	CMakeFiles/somma_vettoriale.dir/main.c.obj	4fcc96a909236aa2
+135	426	6892911231793797	somma_vettoriale.exe	97d86275c8fa4c86

@@ -1,0 +1,3 @@
+C:/Users/fireb/Desktop/esercizi/lettura_vettore/cmake-build-debug/CMakeFiles/lettura_vettore.dir
+C:/Users/fireb/Desktop/esercizi/lettura_vettore/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fireb/Desktop/esercizi/lettura_vettore/cmake-build-debug/CMakeFiles/rebuild_cache.dir

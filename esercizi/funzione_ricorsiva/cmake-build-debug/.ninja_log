@@ -1,0 +1,13 @@
+# ninja log v5
+0	828	6901472989006092	CMakeFiles/funzione_ricorsiva.dir/main.c.obj	9678871c56032054
+829	1963	6901473000298684	funzione_ricorsiva.exe	2059bb45aa8fa45f
+3	596	6901474270210283	CMakeFiles/funzione_ricorsiva.dir/main.c.obj	9678871c56032054
+597	1334	6901474277519129	funzione_ricorsiva.exe	2059bb45aa8fa45f
+3	139	6901475714745980	CMakeFiles/funzione_ricorsiva.dir/main.c.obj	9678871c56032054
+140	276	6901475716062469	funzione_ricorsiva.exe	2059bb45aa8fa45f
+4	130	6901475919244018	CMakeFiles/funzione_ricorsiva.dir/main.c.obj	9678871c56032054
+131	284	6901475920695400	funzione_ricorsiva.exe	2059bb45aa8fa45f
+2	811	6901488324570306	CMakeFiles/funzione_ricorsiva.dir/main.c.obj	9678871c56032054
+811	1617	6901488332599064	funzione_ricorsiva.exe	2059bb45aa8fa45f
+7	659	6902310566988754	CMakeFiles/funzione_ricorsiva.dir/main.c.obj	9678871c56032054
+660	1126	6902310571596457	funzione_ricorsiva.exe	2059bb45aa8fa45f

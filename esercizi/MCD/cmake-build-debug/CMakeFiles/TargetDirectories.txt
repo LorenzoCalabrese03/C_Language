@@ -1,0 +1,3 @@
+C:/Users/fireb/Desktop/esercizi/MCD/cmake-build-debug/CMakeFiles/MCD.dir
+C:/Users/fireb/Desktop/esercizi/MCD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fireb/Desktop/esercizi/MCD/cmake-build-debug/CMakeFiles/rebuild_cache.dir

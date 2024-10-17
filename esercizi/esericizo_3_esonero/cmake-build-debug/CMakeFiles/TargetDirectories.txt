@@ -1,0 +1,3 @@
+C:/Users/fireb/Desktop/esercizi/esericizo_3_esonero/cmake-build-debug/CMakeFiles/esericizo_3_esonero.dir
+C:/Users/fireb/Desktop/esercizi/esericizo_3_esonero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fireb/Desktop/esercizi/esericizo_3_esonero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

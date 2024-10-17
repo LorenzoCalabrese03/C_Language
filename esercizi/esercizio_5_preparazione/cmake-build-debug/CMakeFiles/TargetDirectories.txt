@@ -1,0 +1,3 @@
+C:/Users/fireb/Desktop/esercizi/esercizio_5_preparazione/cmake-build-debug/CMakeFiles/esercizio_5_preparazione.dir
+C:/Users/fireb/Desktop/esercizi/esercizio_5_preparazione/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fireb/Desktop/esercizi/esercizio_5_preparazione/cmake-build-debug/CMakeFiles/rebuild_cache.dir

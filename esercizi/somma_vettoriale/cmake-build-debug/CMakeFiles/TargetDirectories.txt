@@ -1,0 +1,3 @@
+C:/Users/fireb/Desktop/esercizi/somma_vettoriale/cmake-build-debug/CMakeFiles/somma_vettoriale.dir
+C:/Users/fireb/Desktop/esercizi/somma_vettoriale/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fireb/Desktop/esercizi/somma_vettoriale/cmake-build-debug/CMakeFiles/rebuild_cache.dir

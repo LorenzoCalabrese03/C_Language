@@ -1,0 +1,27 @@
+# ninja log v5
+0	225	6902070153417857	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+228	420	6902070155269173	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+3	155	6902070984074024	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+156	373	6902070986221530	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+3	118	6902071076576111	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+119	300	6902071078340111	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+3	117	6902071160075808	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+118	320	6902071162034150	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+4	135	6902073115409841	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+136	368	6902073117683567	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+6	219	6902073645144067	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+220	467	6902073647605109	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+6	139	6902074116357223	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+140	352	6902074118424546	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+5	156	6902074224171382	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+157	397	6902074226527880	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+7	234	6902074826328076	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+235	510	6902074829095635	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+6	217	6902076062700637	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+219	471	6902076065230784	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+5	173	6902076377801686	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+174	438	6902076380374498	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+7	1085	6902309856161153	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+1086	4967	6902309894876942	esercitazione_ricorsione.exe	36e81e1b9e835cd4
+3	424	6902310018057262	CMakeFiles/esercitazione_ricorsione.dir/main.c.obj	59574e0e904c90d2
+425	887	6902310022492468	esercitazione_ricorsione.exe	36e81e1b9e835cd4

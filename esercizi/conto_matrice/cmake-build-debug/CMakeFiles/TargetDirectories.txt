@@ -1,0 +1,3 @@
+C:/Users/fireb/Desktop/esercizi/conto_matrice/cmake-build-debug/CMakeFiles/conto_matrice.dir
+C:/Users/fireb/Desktop/esercizi/conto_matrice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fireb/Desktop/esercizi/conto_matrice/cmake-build-debug/CMakeFiles/rebuild_cache.dir

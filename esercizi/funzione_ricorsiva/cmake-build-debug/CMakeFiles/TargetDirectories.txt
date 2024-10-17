@@ -1,0 +1,3 @@
+C:/Users/fireb/Desktop/esercizi/funzione_ricorsiva/cmake-build-debug/CMakeFiles/funzione_ricorsiva.dir
+C:/Users/fireb/Desktop/esercizi/funzione_ricorsiva/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fireb/Desktop/esercizi/funzione_ricorsiva/cmake-build-debug/CMakeFiles/rebuild_cache.dir
