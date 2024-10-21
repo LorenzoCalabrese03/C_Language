@@ -49,5 +49,5 @@
     <h2>Licenza</h2>
     <p>Questo progetto è distribuito sotto la Licenza MIT. Consulta il file LICENSE per ulteriori dettagli.</p>
     <p>Grazie per la visita!</p>
-    <a href="./README.md/">⬅️</a>
+    <a href="../">⬅️</a>
 
