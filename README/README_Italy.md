@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-</head>
-<body>  
-    <h1 id="italianVersion">Versione Italiana 
-        <p align="right">
-            <a href="./README_England.md">
-                <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pikpng.com%2Fpngl%2Fm%2F62-627341_italian-flag-icon-png-flag-of-italy-circle.png&f=1&nofb=1&ipt=ad25eb8286d42fb20bbb70ee1355dd7f99d32b19acc932eb57d7d437ff3ddadb&ipo=images" alt="Bandiera Inglese" height="30" width="30" >
-            </a>   
-        </p> 
-    </h1>
+<div align="center"> 
+  
+# Versione Italiana | <a href="./README_English.md"><img src="https://www.pikpng.com/pngl/m/85-850967_welcome-in-saint-brieuc-bay-clipart.png" alt="Italy" height="30" width="30"></a> | <a href="./README/README_Spain.md"><img src="https://www.pikpng.com/pngl/m/243-2437383_spanish-flag-01-map-of-spain-spanish-flag.png" alt="Spain" height="30" width="30"></a> |
+
+</div>
     <h1>Esercizi Universitari in C</h1>
     <p>Benvenuto nel mio repository dedicato agli esercizi di programmazione in C svolti durante i miei studi universitari. Qui troverai una raccolta di progetti ed esercizi che coprono vari argomenti, concetti e tecniche in C.</p>
     <h2>Contenuti</h2>
@@ -59,5 +50,4 @@
     <p>Questo progetto è distribuito sotto la Licenza MIT. Consulta il file LICENSE per ulteriori dettagli.</p>
     <p>Grazie per la visita!</p>
     <a href="./README.md/">⬅️</a>
-</body>
-</html>
+
