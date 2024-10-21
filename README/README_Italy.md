@@ -1,6 +1,6 @@
 <div align="center"> 
   
-# Versione Italiana | <a href="./README_English.md"><img src="https://www.pikpng.com/pngl/m/85-850967_welcome-in-saint-brieuc-bay-clipart.png" alt="Italy" height="30" width="30"></a> | <a href="./README/README_Spain.md"><img src="https://www.pikpng.com/pngl/m/243-2437383_spanish-flag-01-map-of-spain-spanish-flag.png" alt="Spain" height="30" width="30"></a> |
+# Versione Italiana | <a href="./README_English.md"><img src="https://www.pikpng.com/pngl/m/85-850967_welcome-in-saint-brieuc-bay-clipart.png" alt="Italy" height="30" width="30"></a> | <a href="./README_Spain.md"><img src="https://www.pikpng.com/pngl/m/243-2437383_spanish-flag-01-map-of-spain-spanish-flag.png" alt="Spain" height="30" width="30"></a> |
 
 </div>
     <h1>Esercizi Universitari in C</h1>
